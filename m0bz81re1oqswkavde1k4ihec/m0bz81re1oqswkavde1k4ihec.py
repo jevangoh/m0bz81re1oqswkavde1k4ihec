@@ -4,6 +4,7 @@ from sqlmodel import SQLModel as SqlModel
 from fastapi import FastAPI
 
 import nz92c2w8z2f8udlci6ravpn7t as the_engine
+import f1osc85baygh69dcdwdsyr8vh as register_notifications  # noqa: F401
 
 
 @asynccontextmanager

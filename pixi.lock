@@ -41,7 +41,6 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/4b/76/6f8221eda15f28471c3887e5a75a62cd7338d20ac03e1e78a110a127d61e/sqlmodel-0.0.48-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/88/2e/947cfe02def9371c07cd5bf5b6b61c829e9aecb9904db02a66cfafbc1eec/starlette-1.10.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
@@ -49,10 +48,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/b8/0d/1b1149f60a00ea21ba5f70e28acbd40feb4598af414f80f53c921fac07c9/pydantic_core-2.50.1-cp315-cp315-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
         - pypi: https://files.pythonhosted.org/packages/be/bd/a4d24b125b92bb156fe2aa3ce8894d19d7d015e246ce88baceb724776a26/sqlalchemy-2.1.6-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
         - pypi: https://files.pythonhosted.org/packages/fb/16/ac9e547b611539aaed1870eb1d6ddc57abdd5924b3a99bb9b5f0b44176b8/greenlet-3.5.6-cp315-cp315-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/bzip2-1.0.8-h4777abc_10.conda
@@ -84,17 +80,13 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/4b/76/6f8221eda15f28471c3887e5a75a62cd7338d20ac03e1e78a110a127d61e/sqlmodel-0.0.48-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/17/cc5203117626f71ab3a9ef2fee4cc5ec5c53a80d72b1dd791bc3d497afd2/sqlalchemy-2.1.6-cp315-cp315-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/88/2e/947cfe02def9371c07cd5bf5b6b61c829e9aecb9904db02a66cfafbc1eec/starlette-1.10.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/a6/6a/f34bff9808ffb4907fbf5f5040457d253cacf2da7fce9efbc99ca1b1a44d/pydantic_core-2.50.1-cp315-cp315-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
         - pypi: https://files.pythonhosted.org/packages/b4/4f/3f2c25c9b43970b5e9a08beb5e04776247edea684ddc0930f4f02f0bb6cb/fastapi-0.162.0-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.10.23-h4c7d964_0.conda
         - conda: https://conda.anaconda.org/conda-forge/noarch/python_abi-3.15-9_cp315.conda
@@ -123,17 +115,13 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/4b/76/6f8221eda15f28471c3887e5a75a62cd7338d20ac03e1e78a110a127d61e/sqlmodel-0.0.48-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/5f/98/f9bd7e1f9b6709f155acb9ef826d9c3884fe925f811fd8e55b9b52280bad/pydantic_core-2.50.1-cp315-cp315-win_amd64.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/88/2e/947cfe02def9371c07cd5bf5b6b61c829e9aecb9904db02a66cfafbc1eec/starlette-1.10.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/b4/4f/3f2c25c9b43970b5e9a08beb5e04776247edea684ddc0930f4f02f0bb6cb/fastapi-0.162.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/de/56/12941ed2711400451c89d544e10f831800a2770f19dd55eac8f0f7f2003b/greenlet-3.5.6-cp315-cp315-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/f3/d6/13087d9a1ded5bf8ccadc2f315c157d4796828829b2c2d6cf1031f1c00ba/sqlalchemy-2.1.6-cp315-cp315-win_amd64.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
   dev:
     channels:
       - url: https://conda.anaconda.org/conda-forge/
@@ -206,7 +194,6 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/71/46/17f022dd3e953bf20a04a028a21ec746d942f8d2af30fa0f124fa0e6a684/pygments-2.21.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/72/b9/313e8f2f2e9517ae050a692ae7b3e4b3f17cc5e6dfea0db51fe14e586580/jinja2_ansible_filters-1.3.2-py3-none-any.whl
@@ -234,10 +221,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fd/dc/e72a1449544aeffa3dbe878c6340bcec98ba4eebabe7a592414064b0ae8d/zensical-0.0.47-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
         - pypi: https://files.pythonhosted.org/packages/fe/66/bcab3b677b71ad286b4e607e3427499537c76e13ad2e22584ba7a7d9882c/markdown-3.11.2-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/bzip2-1.0.8-h4777abc_10.conda
@@ -305,7 +289,6 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/5c/dd/bcf364eacfa070bb1fc88d503111ae7177914197ba1fa717c748926e7930/librt-0.16.0-cp315-cp315-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl
         - pypi: https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/17/cc5203117626f71ab3a9ef2fee4cc5ec5c53a80d72b1dd791bc3d497afd2/sqlalchemy-2.1.6-cp315-cp315-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/71/46/17f022dd3e953bf20a04a028a21ec746d942f8d2af30fa0f124fa0e6a684/pygments-2.21.0-py3-none-any.whl
@@ -331,10 +314,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f1/d9/7fb5aa316bc299258e68c73ba3bddbc499654a07f151cba08f6153988714/pathspec-1.1.1-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fe/66/bcab3b677b71ad286b4e607e3427499537c76e13ad2e22584ba7a7d9882c/markdown-3.11.2-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.10.23-h4c7d964_0.conda
         - conda: https://conda.anaconda.org/conda-forge/noarch/python_abi-3.15-9_cp315.conda
@@ -386,7 +366,6 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/5f/98/f9bd7e1f9b6709f155acb9ef826d9c3884fe925f811fd8e55b9b52280bad/pydantic_core-2.50.1-cp315-cp315-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl
-        - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/67/81/4add07e5172b7ac40d8ed5ff580409a7801a4fe26d529bdd915401dabfbe/typing_inspection-0.4.4-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/71/46/17f022dd3e953bf20a04a028a21ec746d942f8d2af30fa0f124fa0e6a684/pygments-2.21.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/72/b9/313e8f2f2e9517ae050a692ae7b3e4b3f17cc5e6dfea0db51fe14e586580/jinja2_ansible_filters-1.3.2-py3-none-any.whl
@@ -411,10 +390,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f9/7a/7daaeadfdf7dc2941c8b931f9c6c83396d1da45634cec1a28f8d85a57708/zensical-0.0.47-cp310-abi3-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fe/66/bcab3b677b71ad286b4e607e3427499537c76e13ad2e22584ba7a7d9882c/markdown-3.11.2-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
         - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
 packages:
   - conda: https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-20_gnu.conda
     build_number: 20
@@ -2182,7 +2158,6 @@ packages:
   - pypi: .
     name: m0bz81re1oqswkavde1k4ihec
     requires_dist:
-      - f1osc85baygh69dcdwdsyr8vh>=0.0.4,<0.0.5
       - fastapi>=0.162.0,<0.163
       - nz92c2w8z2f8udlci6ravpn7t>=0.0.3,<0.0.4
       - sqlmodel>=0.0.48,<0.0.49
@@ -2376,23 +2351,6 @@ packages:
     version: "26.3"
     sha256: d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
     requires_python: ">=3.9"
-  - pypi: https://files.pythonhosted.org/packages/66/9d/c5731f6e3608663d4d3656fd8d3aecee8b509c3082818f5a13eae925baea/redis-8.1.0-py3-none-any.whl
-    name: redis
-    version: 8.1.0
-    sha256: a4fe1aac3d3b3cc791d4b3d5931c5a956045dc951ee74d1c913ee3ac4d2ee9fb
-    requires_dist:
-      - async-timeout>=4.0.3 ; python_full_version < '3.11.3'
-      - pybreaker>=1.4.0 ; extra == 'circuit-breaker'
-      - hiredis>=3.2.0 ; extra == 'hiredis'
-      - pyjwt>=2.13.0 ; extra == 'jwt'
-      - cryptography>=36.0.1 ; extra == 'ocsp'
-      - pyopenssl>=20.0.1 ; extra == 'ocsp'
-      - requests>=2.31.0 ; extra == 'ocsp'
-      - opentelemetry-api>=1.39.1 ; extra == 'otel'
-      - opentelemetry-exporter-otlp-proto-http>=1.39.1 ; extra == 'otel'
-      - opentelemetry-sdk>=1.39.1 ; extra == 'otel'
-      - xxhash~=3.6.0 ; extra == 'xxhash'
-    requires_python: ">=3.10"
   - pypi: https://files.pythonhosted.org/packages/67/17/cc5203117626f71ab3a9ef2fee4cc5ec5c53a80d72b1dd791bc3d497afd2/sqlalchemy-2.1.6-cp315-cp315-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl
     name: sqlalchemy
     version: 2.1.6
@@ -2847,34 +2805,10 @@ packages:
       - justhtml==3.11.2 ; extra == 'docs'
       - ghp-import==2.1.0 ; extra == 'docs'
     requires_python: ">=3.11"
-  - pypi: https://github.com/jevangoh/f1osc85baygh69dcdwdsyr8vh/releases/download/v0.0.4/f1osc85baygh69dcdwdsyr8vh-0.0.4-py3-none-any.whl
-    name: f1osc85baygh69dcdwdsyr8vh
-    version: 0.0.4
-    index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
-    requires_dist:
-      - msjzm0ilrcvjjguhp29y62uzk>=0.0.1,<0.0.2
-      - skkrfl6asevwuubvfioii3hlm>=0.0.3,<0.0.4
-      - sqlalchemy>=2.1.6,<3
-    requires_python: ">=3.14"
-  - pypi: https://github.com/jevangoh/msjzm0ilrcvjjguhp29y62uzk/releases/download/v0.0.1/msjzm0ilrcvjjguhp29y62uzk-0.0.1-py3-none-any.whl
-    name: msjzm0ilrcvjjguhp29y62uzk
-    version: 0.0.1
-    index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
-    requires_dist:
-      - redis>=8.1.0,<9
-    requires_python: ">=3.14"
   - pypi: https://github.com/jevangoh/nz92c2w8z2f8udlci6ravpn7t/releases/download/v0.0.3/nz92c2w8z2f8udlci6ravpn7t-0.0.3-py3-none-any.whl
     name: nz92c2w8z2f8udlci6ravpn7t
     version: 0.0.3
     index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
     requires_dist:
       - sqlalchemy[asyncio]>=2.1.6,<3
-    requires_python: ">=3.14"
-  - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.3/skkrfl6asevwuubvfioii3hlm-0.0.3-py3-none-any.whl
-    name: skkrfl6asevwuubvfioii3hlm
-    version: 0.0.3
-    index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
-    requires_dist:
-      - sqlalchemy>=2.1.6,<3
-      - sqlmodel>=0.0.48,<0.0.49
     requires_python: ">=3.14"

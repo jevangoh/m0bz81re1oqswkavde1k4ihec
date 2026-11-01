@@ -85,10 +85,10 @@ markdown-gfm-admonition = ">=0.3.0, <0.4"
 
 [tool.pixi.feature.docs.tasks]
 build_docs = "zensical build --config-file zensical.toml"
-create_readthedocs_without_doppler = "curl -f -s -X POST https://app.readthedocs.org/api/v3/projects/ -H \"Authorization: Token $PA0DBVCU05YKU48G8HCUNB2G3\" -H \"Content-Type: application/json\" -d '{\"name\": \"m0bz81re1oqswkavde1k4ihec\", \"repository\": {\"url\": \"https://github.com/jevangoh/m0bz81re1oqswkavde1k4ihec\", \"type\": \"git\"}, \"default_branch\": \"main\", \"programming_language\": \"py\"}'"
-create_readthedocs = "doppler run --token \"$AZU4V7WTFF38YLYNTQXQI0B7G\" -- pixi run create_readthedocs_without_doppler"
-build_readthedocs_without_doppler = "curl -f -s -X POST https://app.readthedocs.org/api/v3/projects/m0bz81re1oqswkavde1k4ihec/versions/main/builds/ -H \"Authorization: Token $PA0DBVCU05YKU48G8HCUNB2G3\""
-build_readthedocs = "doppler run --token \"$AZU4V7WTFF38YLYNTQXQI0B7G\" -- pixi run build_readthedocs_without_doppler"
+create_readthedocs_with_manual_secrets_injection = "curl -f -s -X POST https://app.readthedocs.org/api/v3/projects/ -H \"Authorization: Token $PA0DBVCU05YKU48G8HCUNB2G3\" -H \"Content-Type: application/json\" -d '{\"name\": \"m0bz81re1oqswkavde1k4ihec\", \"repository\": {\"url\": \"https://github.com/jevangoh/m0bz81re1oqswkavde1k4ihec\", \"type\": \"git\"}, \"default_branch\": \"main\", \"programming_language\": \"py\"}'"
+create_readthedocs = "doppler run --token \"$AZU4V7WTFF38YLYNTQXQI0B7G\" -- pixi run create_readthedocs_with_manual_secrets_injection"
+build_readthedocs_with_manual_secrets_injection = "curl -f -s -X POST https://app.readthedocs.org/api/v3/projects/m0bz81re1oqswkavde1k4ihec/versions/main/builds/ -H \"Authorization: Token $PA0DBVCU05YKU48G8HCUNB2G3\""
+build_readthedocs = "doppler run --token \"$AZU4V7WTFF38YLYNTQXQI0B7G\" -- pixi run build_readthedocs_with_manual_secrets_injection"
 
 ######################################################################################################
 #                                                ruff                                                #
